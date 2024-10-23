@@ -34,7 +34,7 @@ UrlShortie is a url shortener web application that allows users to generate shor
 Once both the frontend and backend are running, you can access the application in your browser at `http://localhost:3000`. Enter a long URL to generate a shortened version.
 
 
-## specify website address
+## specify web domain
 if you have a domain that you want to use the project on, create a .env file and specify ADDRESS=(YOURDOMAIN.com) for the app to work.
 
 
